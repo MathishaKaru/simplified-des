@@ -1,0 +1,39 @@
+COMP 280 - Project 02 (Simplified DES Encryption)
+
+Update this file so that it contains the following info.
+Submissions where this file has not been completed will NOT be accepted (i.e.
+will receive a failing grade).
+
+1. Partner 1's FULL Name: Kieran Kennedy
+   Partner 1's USD Email Address: kierankennedy@sandiego.edu
+   Partner 2's FULL Name: Mathisha Karunaratne
+   Partner 2's USD Email Address: mkarunaratne@sandiego.edu
+
+2. A typed copy of USD's academic integrity pledge, followed by each partners'
+   typed initials (as a way of "signing the pledge.").
+
+   The academic integrity pledge can be found on page 3 of
+   the document found here: https://www.sandiego.edu/conduct/documents/Honor-Code.pdf
+   To be clear, it is the text that starts, "I pledge to demonstrate...".
+
+   I pledge to demonstrate personal and academic integrity in all matters with
+   my fellow students, the faculty, and the administration here at USD. I
+   promise to be honest and accountable for my actions; and to uphold the
+   statutes of scholastic honesty to better myself and those around me.
+
+   KK MK
+
+3. The estimated number of hours spent working on the project.
+   Break this down into three categories:
+		- Time spent partner 1 spent working alone: 0
+		- Time spent partner 2 spent working alone: 0
+		- Time spent working together: 6 hours
+
+4. A list of missing features and/or known bugs.
+N/A
+
+5. Any feedback you with to give me relating the project (e.g. Was it
+   interesting? How could it be improved?)
+For some of the functions we struggled to understand what the predeclared
+variabled were. Though overall an excellent project.
+
