@@ -158,6 +158,7 @@ uint8_t *generate_round_keys(uint16_t original_key, unsigned int num_rounds) {
 
 	return round_keys;
 }
+
 /*Encrypts the given data over the specified number of rounds using the given
  * keys.
  *
