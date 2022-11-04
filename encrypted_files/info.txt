@@ -1,0 +1,11 @@
+Input file: small_test.txt
+Key: 0x8A
+Number of rounds: 2
+
+Input file: bigger_test.txt
+Key: 0x4C
+Number of rounds: 8
+
+Input file: mystery.txt
+Key: 0x1A3
+Number of rounds: 7
